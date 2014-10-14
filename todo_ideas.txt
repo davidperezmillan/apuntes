@@ -1,0 +1,11 @@
+Se podria validar los formularios para comprobar que se van a cambiar.
+Por ejemplo. 
+  Tenemos un formulario para dos tipos de datos basicos (Particular y cliente)
+  Cuando cambiamos de particular a cliente cambia el formulario y los campos. Por lo que perdemos los datos introducidos,
+  para avisar al usuario se puede hacer una validacion desde el servidor.
+  O un filto.
+Por ejemplo. 
+  Tenemos un formulario para varios tipos de datos basicos (rojo, blanco, amarillo ... n)
+  Cuando cambiamos de tipo de dato cambian los campos. Por lo que perdemos los datos introducidos,
+  para avisar al usuario se puede hacer una validacion desde el servidor.
+  O un filto.
