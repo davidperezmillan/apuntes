@@ -1,4 +1,4 @@
-apuntes
+Apuntes
 =======
 
 Apuntes, ideas, todo, etc...
